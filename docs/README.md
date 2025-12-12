@@ -340,7 +340,7 @@ For detailed guidance on each phase and process, refer to these documents:
 ## Best Practices
 
 - **Keep documentation updated**: Treat project artifacts as living documents
-- **Use `.copilot/` for context**: Add process-specific docs to `.copilot/` for AI assistance
+- **Use `.copilot/` for AI context**: Add process-specific documentation to the `.copilot/` directory in your project repository to enable GitHub Copilot Spaces to use them as context for AI-assisted development
 - **Maintain a single source of truth**: Use project README or release docs for status
 - **Celebrate wins**: Recognize achievements and improvements
 - **Embrace feedback**: Create psychological safety for honest retrospectives
