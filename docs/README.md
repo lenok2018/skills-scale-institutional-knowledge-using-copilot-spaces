@@ -300,6 +300,8 @@ Throughout the project lifecycle, we maintain essential documents:
 - **Risk Register**: Tracked risks, impacts, and mitigations
 - **Retrospective Notes**: Learnings and action items for improvement
 - **Release Notes**: Summary of changes, migrations, known issues
+- **Documentation Readiness Checklist**: Validation that documentation is complete and ready for release
+- **User Experience Review Template**: Structured evaluation of feature usability and design quality
 
 ## Process Documentation
 
@@ -313,6 +315,13 @@ For detailed guidance on each phase and process, refer to these documents:
 - [**OctoAcme Release and Deployment**](octoacme-release-and-deployment.md) - Standardized release processes and deployment practices
 - [**OctoAcme Retrospective and Continuous Improvement**](octoacme-retrospective-and-continuous-improvement.md) - Capturing learnings and driving improvements
 - [**OctoAcme Roles and Personas**](octoacme-roles-and-personas.md) - Detailed role definitions and responsibilities
+
+## Templates and Checklists
+
+These templates and checklists help teams maintain quality and consistency:
+
+- [**Documentation Readiness Checklist**](documentation-readiness-checklist.md) - Ensure documentation is complete and ready before release
+- [**User Experience Review Template**](user-experience-review-template.md) - Structured UX evaluation for features and designs
 
 ## Getting Started
 
