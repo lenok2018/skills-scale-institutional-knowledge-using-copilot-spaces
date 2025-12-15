@@ -22,6 +22,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - End-to-end smoke tests for critical flows before release
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
+- UX validation against design specifications (use [User Experience Review Template](user-experience-review-template.md))
+- Documentation accuracy reviews (reference [Documentation Readiness Checklist](documentation-readiness-checklist.md))
 
 ## Reporting & Metrics
 - Track velocity and burndown

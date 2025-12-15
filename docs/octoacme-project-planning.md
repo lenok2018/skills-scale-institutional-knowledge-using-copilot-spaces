@@ -41,3 +41,10 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] UX design reviews scheduled (use [User Experience Review Template](user-experience-review-template.md) for structured evaluations)
+- [ ] Documentation requirements identified
+
+## Related Resources
+- [Documentation Readiness Checklist](documentation-readiness-checklist.md) - Plan documentation work in sprints
+- [User Experience Review Template](user-experience-review-template.md) - Structure design reviews and validations
+- [OctoAcme Roles and Personas](octoacme-roles-and-personas.md) - Understand roles involved in planning
